@@ -1,0 +1,17 @@
+{
+    "name": "asiadevmedia/portalpulsa",
+    "description": "Portal Pulsa API",
+    "autoload": {
+        "psr-4": {
+            "Asiadevmedia\\PortalPulsa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Teguh",
+            "email": "asiadevmedia@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {}
+}
